@@ -38,3 +38,5 @@ Gitlab CI/CD allows the implementation of the three approaches we talked about b
     * Continuous Deployment (CD)
 
 Read more about it [here](https://docs.gitlab.com/ee/ci/)
+
+See the demo in [here](https://gitlab.com/NTHINGs/pipeline-demo)
