@@ -1,0 +1,3 @@
+[submodule "Continuous Integration and Continuous Deployment (CI\\CD)/pipeline-demo"]
+	path = Continuous Integration and Continuous Deployment (CI\\CD)/pipeline-demo
+	url = https://gitlab.com/NTHINGs/pipeline-demo.git
