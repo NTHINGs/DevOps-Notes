@@ -1,4 +1,4 @@
-# Continuous Integration and Continuous Deployment (CI/CD)
+# Continuous Integration and Continuous Deployment (CI\CD)
 
 In short, it lays out some practices to follow in order for the code you write to more quickly and safely get to your users and ultimately generate value.
 

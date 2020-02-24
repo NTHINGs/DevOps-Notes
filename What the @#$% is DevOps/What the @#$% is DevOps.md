@@ -1,4 +1,4 @@
-# Que @#$% es un DevOps
+# What the @#$% is DevOps
 
 Para aprender a ser DevOps, primero necesitamos saber que es uno. Para ello comenzaré definiendo el entorno de trabajo de un DevOps, la industria del software.
 

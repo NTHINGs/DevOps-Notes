@@ -1,17 +1,17 @@
 # Temario
 
-## Que @#$% es un DevOps
+## What the @#$% is DevOps
 
-## Integración Continua y Deployment Continuo CI/CD
+## Continuous Integration and Continuous Deployment (CI\CD)
 
-## Infraestructura como servicio (IaaS)
+## Infrastructure as a Service (IaaS)
 
 ## GitOps
 
-## Infraestructura como código (IaC)
+## Infrastructure as Code (IaC)
 
 ### Terraservices
 
 ## Containers
 
-## Kubernetes (Orquestación de contenedores)
+## Kubernetes (Container Orchestration)
